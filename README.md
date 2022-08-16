@@ -1,75 +1,56 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
-
+todo list
+A react todos application
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+Html
+Css
+React
 
 ## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+[on progress...]
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+The code is available in the src folder.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone the project
+You can download or clone this project by running this command from your terminal.
 
-### Setup
+git clone https://github.com/NATASHA-ct/DailyTask.git
+This will crate a dirctory in the name of the project folder.
 
-### Install
+Open it with your text editor.
 
-### Usage
+Next, switch inside the project directory and ru:
 
-### Run tests
+npm install
+This will install all the necessary dependencies in the local node_modules folder.
 
-### Deployment
+Finally, start your development server by running:
 
+npm start
+You should see the app in your browser address bar at https://local/host:3000
 
+## Prerequisites
+Any html and css code editor like Vscode or Vim.
 
 ## Authors
 
-👤 **Author1**
+👤 **NATASHA TATENDA CHIROMBE**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+📝 License
+This project is MIT licensed.

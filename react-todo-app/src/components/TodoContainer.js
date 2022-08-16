@@ -1,5 +1,6 @@
 import React from "react";
 import TodosList from "./TodosList";
+import Header from "./Header";
 
 class TodoContainer extends React.Component {
   state = {
@@ -21,13 +22,16 @@ class TodoContainer extends React.Component {
       },
     ],
   };
-
+  handleChange = () => {
+    console.log("clicked");
+  };
   render() {
     return (
       <div>
+        <Header />
         <TodosList todos={this.state.todos} />
       </div>
     );
   }
 }
-export default TodoContainer;
+export default TodoContainer
