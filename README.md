@@ -1,4 +1,4 @@
-DAILY TASK /TODO LIST
+# DAILY TASK /TODO LIST WEB-APP
 To-do list is an interactive project where you can create different daily tasks lists. You can add and remove any item. Built with plain JSX, JavaScript and REACT
 
 ## Built With
